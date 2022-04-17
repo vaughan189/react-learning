@@ -6,7 +6,7 @@ export class Post extends Component {
   componentDidMount() {
     // calling the new action creator
     // this.props.getData();
-    this.props.getData("https://api.valentinog.com/api/link/")
+    this.props.getData("https://my-json-server.typicode.com/typicode/demo/posts")
   }
 
   render() {
