@@ -13,3 +13,7 @@ export const getPosts = () => {
       });
   };
 };
+
+export function getData() {
+  return { type: "DATA_REQUESTED" };
+}
