@@ -20,13 +20,13 @@ const ExpenseList = () => {
   return (
     <>
       <div className="row mt-3">
-        <div class="input-group mb-3">
-          <span class="input-group-text" id="basic-addon1">
+        <div className="input-group mb-3">
+          <span className="input-group-text" id="basic-addon1">
             <TiZoomIn size="1.5em" style={{ cursor: "pointer" }} />
           </span>
           <input
             type="text"
-            class="form-control"
+            className="form-control"
             placeholder="Search Expenses"
             aria-label="Search Expenses"
             aria-describedby="basic-addon1"
