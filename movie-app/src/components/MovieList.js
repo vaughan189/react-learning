@@ -5,7 +5,7 @@ const MovieList = (props) => {
   return (
     <>
       {movies && movies.map((movie, index) => (
-        <div
+        <div key={index}
           className="image-container d-flex justify-content-start m-3"
           style={{ width: "17%" }}
         >
