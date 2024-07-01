@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { GaugeChart } from './utils/GaugeChart';
-import { getSearchData, tsLogin } from './utils/thoughtspot-rest-api-v1-helpers';
+import { GaugeChart } from '../../utils/GaugeChart';
+import { getSearchData, tsLogin } from '../../utils/thoughtspot-rest-api-v1-helpers';
 
 const tsURL = process.env.REACT_APP_TS_URL;
 const USER = process.env.REACT_APP_TS_USERNAME;

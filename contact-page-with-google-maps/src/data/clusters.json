@@ -1,0 +1,109 @@
+{
+    "data": {
+        "storeLocator": {
+            "count": 15,
+            "store": [
+                {
+                    "member_number": "0011",
+                    "name": "0011",
+                    "phone_number": "704-735-7129",
+                    "address": "969 Reepsville Road, Lincolnton, , 28092",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "0.59",
+                    "lat": "35.475674",
+                    "lng": "-81.269101"
+                },
+                {
+                    "member_number": "LEX",
+                    "name": "Lexington",
+                    "phone_number": "+18039575311",
+                    "address": "170 Longs Pond Road, Lexington, South Carolina, 29072-9376",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "106.4",
+                    "lat": "33.932858",
+                    "lng": "-81.297695"
+                },
+                {
+                    "member_number": "0010",
+                    "name": "0010",
+                    "phone_number": "740-967-6896",
+                    "address": "79 E Coshocton St, JOHNSTOWN, , 43031",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "332.71",
+                    "lat": "40.154549",
+                    "lng": "-82.68296"
+                },
+                {
+                    "member_number": "MDN",
+                    "name": "Medina",
+                    "phone_number": "+13307225541",
+                    "address": "444 Independence Drive, Medina, Ohio, 44256-2407",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "392.47",
+                    "lat": "41.130716",
+                    "lng": "-81.890497"
+                },
+                {
+                    "member_number": "0014",
+                    "name": "0014",
+                    "phone_number": "724-588-6400",
+                    "address": "40 CONNEAUT LAKE ROAD, GREENVILLE, , 16125",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "413.67",
+                    "lat": "41.419513",
+                    "lng": "-80.380481"
+                },
+                {
+                    "member_number": "0012",
+                    "name": "0012",
+                    "phone_number": "260-824-9003",
+                    "address": "1879 N Main Street, Bluffton, , 46714",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "423.02",
+                    "lat": "40.76977",
+                    "lng": "-85.164544"
+                },
+                {
+                    "member_number": "demo",
+                    "name": "DEMO Member",
+                    "phone_number": "+33123456789",
+                    "address": "1626 Broadway, Fort Wayne, Fort Wayne, Indiana, 46802",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "440.61",
+                    "lat": "41.071052",
+                    "lng": "-85.152067"
+                },
+                {
+                    "member_number": "0017T",
+                    "name": "0017T",
+                    "phone_number": "618-687-1702",
+                    "address": "208 S WILLIAMS ST, MURPHYSBORO, , 62966",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "473.99",
+                    "lat": "37.763864",
+                    "lng": "-89.318804"
+                },
+                {
+                    "member_number": "0017R",
+                    "name": "0017R",
+                    "phone_number": "618-443-5335",
+                    "address": "1306 N MARKET, SPARTA, , 62286",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "501.86",
+                    "lat": "38.139178",
+                    "lng": "-89.701963"
+                },
+                {
+                    "member_number": "0022",
+                    "name": "0022",
+                    "phone_number": "573-547-4524",
+                    "address": "800 ST. JOSEPH STREET, PERRYVILLE, , 63775",
+                    "opening_hours": "9AM - 5PM",
+                    "distance": "502.25",
+                    "lat": "37.725733",
+                    "lng": "-89.871742"
+                }
+            ]
+        }
+    }
+}
